@@ -1,0 +1,7 @@
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\bin\Release\MSIAfterburnerPlugin.dll
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\bin\Release\MSIAfterburnerPlugin.pdb
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\bin\Release\CoreInterfaces.dll
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\bin\Release\MSIAfterburner.NET.dll
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\obj\Release\ResolveAssemblyReference.cache
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\obj\Release\MSIAfterburnerPlugin.dll
+E:\Dropbox\MSIAfterburnerPlugin\MSIAfterburnerPlugin\obj\Release\MSIAfterburnerPlugin.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Plugins> 
+   <Plugin ID="MSIAfterburner" Type="MSIAfterburnerPlugin.Plugin, MSIAfterbunerPlugin" Visible="Yes" Description="Jamie Roos - Afterburner plugin"> 
+      <Depends ID="DataService" /> 
+      <Depends ID="DispatchService" /> 
+   </Plugin> 
+</Plugins>
